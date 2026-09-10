@@ -206,6 +206,10 @@ npm run dev -- petal
 
 </details>
 
+## 配套
+
+Bloom 管**写字的环境**。内容本身怎么写 —— 结论先行、SCQA、MECE、语气姿态 —— 见 [talk-skills](https://github.com/webkubor/talk-skills)；写完要出 PDF 或长图，见 [facet](https://github.com/webkubor/facet)。三者互不重复定义：环境 / 方法 / 渲染。
+
 ## License
 
 [MIT](LICENSE)
