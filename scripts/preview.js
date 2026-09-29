@@ -32,8 +32,9 @@ function openBrowser(url) {
         : `xdg-open "${url}"`;
   try {
     execSync(cmd, { stdio: "ignore", shell: true });
-  } catch {
-    // 忽略无法自动打开浏览器的情况
+  } catch (err) {
+    // 自动开浏览器是尽力行为，但出错时仍留痕，方便 headless 环境排错
+    console.error(`[preview] open browser failed (${cmd}): ${err.message}`);
   }
 }
 

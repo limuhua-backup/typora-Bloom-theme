@@ -89,8 +89,9 @@ function openBrowser(url) {
   const args = process.platform === "win32" ? ["/c", "start", "", url] : [url];
   try {
     run(command, args, { stdio: "ignore" });
-  } catch {
-    // Browser auto-open is best effort.
+  } catch (err) {
+    // Browser auto-open is best effort; log so debugging headless / missing-opener still leaves a trace.
+    console.error(`[dev-toolkit] open browser failed (${command} ${args.join(" ")}): ${err.message}`);
   }
 }
 

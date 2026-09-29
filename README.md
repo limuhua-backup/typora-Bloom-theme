@@ -46,7 +46,7 @@ Bloom 是一套面向长文写作的 Typora 主题集合，围绕三个核心目
 - 让代码块、引用、表格、YAML Frontmatter 等高频模块风格统一。
 - 让浅色和深色主题切换时，亮度与层次依然稳定。
 
-当前版本为 `v1.3.5`。
+当前版本为 `v1.7.2`（badge 由 `github/v/release` 动态同步）。
 
 ## 为什么用 Bloom
 
@@ -131,14 +131,19 @@ Bloom 是一套面向长文写作的 Typora 主题集合，围绕三个核心目
 3. 将压缩包中的所有 `bloom-*.css` 文件和 `bloom/` 文件夹复制到主题目录。
 4. 重启 Typora，或从 `主题` 菜单切换到 Bloom。
 
-## 本次版本更新
+## 最新版本（v1.7.2）
 
-`v1.3.5` 主要包括：
+`v1.7.2`（2026-09-10）：
 
-- 新增麦穗 (Wheat) 浅色/深色主题。
-- 修复深色模式标题栏、快速打开列表、源码模式对比度问题。
-- 修复表格列宽拖拽 UI 错位。
-- 开发工具链增强，统一发版流程。
+- **WCAG AA 链接色护栏**：6 套浅色主题的链接色补足 AA 对比度，并把 accent 纳入 CI 守门。
+- **CI 改用 pnpm**：release-please workflow 改 pnpm 配套。
+
+`v1.7.0` 起更早的关键节点：
+
+- v1.4.0 — 编译 oklch/color-mix 到静态 sRGB 兼容老 Typora；代码块滚动 / 发版流程统一；主题 alerts / 打印清理。
+- v1.5.0 — 新增 Ink / Amber / Lapis 主题 + palette wall（GitHub 配色投票面板），共 24 套。
+- v1.6.0 — CJK 阅读 measure / 字距 / 作用域过渡；WCAG CI 上线。
+- v1.7.0 — fluent 风格 sidebar file tree。
 
 完整更新日志见 [CHANGELOG.md](CHANGELOG.md)。
 

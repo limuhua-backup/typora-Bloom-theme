@@ -30,7 +30,7 @@ Bloom is a Typora theme set built around three goals:
 - keep code fences, quotes, tables, alerts, and YAML frontmatter visually consistent
 - preserve stable contrast and hierarchy across light and dark themes
 
-The current release is `v1.3.5`.
+The current release is `v1.7.2` (badge is auto-synced from `github/v/release`).
 
 ## Why Bloom
 
@@ -117,12 +117,17 @@ The current release is `v1.3.5`.
 
 ## Latest Release Highlights
 
-`v1.3.5` includes:
+`v1.7.2` (2026-09-10):
 
-- New Wheat (light & dark) themes.
-- Fixed dark-mode title bar, Quick Open list, and Source Mode contrast.
-- Fixed table column resize UI glitch.
-- Enhanced dev toolchain and unified release workflow.
+- **WCAG AA link-color guardrail** — six light themes now meet AA contrast for links, and accent is gated by CI.
+- **CI switched to pnpm** — release-please workflow now runs on pnpm.
+
+Key milestones since `v1.3.5`:
+
+- v1.4.0 — compile oklch / color-mix to static sRGB for legacy Typora compatibility; unified release flow; theme alerts & print cleanup.
+- v1.5.0 — Ink / Amber / Lapis palettes + palette wall with GitHub voting (24 themes total).
+- v1.6.0 — CJK reading measure, tracking, scoped transitions; WCAG CI online.
+- v1.7.0 — fluent-inspired sidebar file tree.
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history.
 
