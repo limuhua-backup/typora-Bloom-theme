@@ -64,61 +64,61 @@ Bloom 是一套面向长文写作的 Typora 主题集合，围绕三个核心目
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/petal.png" alt="petal 花瓣" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/petal.webp" alt="petal 花瓣" />
       <sub><code>petal</code> 花瓣 · <code>petal-dark</code> 花瓣·暗夜</sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/mist-dark.png" alt="mist-dark 雾蓝·暗夜" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/mist-dark.webp" alt="mist-dark 雾蓝·暗夜" />
       <sub><code>mist</code> 雾蓝 · <code>mist-dark</code> 雾蓝·暗夜</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/verdant.png" alt="verdant 草木" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/verdant.webp" alt="verdant 草木" />
       <sub><code>verdant</code> 草木 · <code>verdant-dark</code> 草木·暗夜</sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/stone-dark.png" alt="stone-dark 暖石·暗夜" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/stone-dark.webp" alt="stone-dark 暖石·暗夜" />
       <sub><code>stone</code> 暖石 · <code>stone-dark</code> 暖石·暗夜</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/wheat.png" alt="wheat 麦穗" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/wheat.webp" alt="wheat 麦穗" />
       <sub><code>wheat</code> 麦穗 · <code>wheat-dark</code> 麦穗·暗夜</sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/ink.png" alt="ink 水墨" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/ink.webp" alt="ink 水墨" />
       <sub><code>ink</code> 水墨 · <code>ink-dark</code> 水墨·暗夜</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/amber-dark.png" alt="amber-dark 琥珀·暗夜" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/amber-dark.webp" alt="amber-dark 琥珀·暗夜" />
       <sub><code>amber</code> 琥珀 · <code>amber-dark</code> 琥珀·暗夜</sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/lapis.png" alt="lapis 青金" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/lapis.webp" alt="lapis 青金" />
       <sub><code>lapis</code> 青金 · <code>lapis-dark</code> 青金·暗夜</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/ripple-dark.png" alt="ripple-dark 涟漪·暗夜" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/ripple-dark.webp" alt="ripple-dark 涟漪·暗夜" />
       <sub><code>ripple</code> 涟漪 · <code>ripple-dark</code> 涟漪·暗夜</sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/cinnabar.png" alt="cinnabar 丹红" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/cinnabar.webp" alt="cinnabar 丹红" />
       <sub><code>cinnabar</code> 丹红 · <code>cinnabar-dark</code> 丹红·暗夜</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/sage-dark.png" alt="sage-dark 鼠尾草·暗夜" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/sage-dark.webp" alt="sage-dark 鼠尾草·暗夜" />
       <sub><code>sage</code> 鼠尾草 · <code>sage-dark</code> 鼠尾草·暗夜</sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/spring.png" alt="spring 紫语" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/spring.webp" alt="spring 紫语" />
       <sub><code>spring</code> 紫语 · <code>spring-dark</code> 紫语·暗夜</sub>
     </td>
   </tr>

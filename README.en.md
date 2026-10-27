@@ -48,61 +48,61 @@ The current release is `v1.7.2` (badge is auto-synced from `github/v/release`).
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/petal.png" alt="petal" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/petal.webp" alt="petal" />
       <sub><code>petal</code> · <code>petal-dark</code></sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/mist-dark.png" alt="mist-dark" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/mist-dark.webp" alt="mist-dark" />
       <sub><code>mist</code> · <code>mist-dark</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/verdant.png" alt="verdant" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/verdant.webp" alt="verdant" />
       <sub><code>verdant</code> · <code>verdant-dark</code></sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/stone-dark.png" alt="stone-dark" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/stone-dark.webp" alt="stone-dark" />
       <sub><code>stone</code> · <code>stone-dark</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/wheat.png" alt="wheat" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/wheat.webp" alt="wheat" />
       <sub><code>wheat</code> · <code>wheat-dark</code></sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/ink.png" alt="ink" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/ink.webp" alt="ink" />
       <sub><code>ink</code> · <code>ink-dark</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/amber-dark.png" alt="amber-dark" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/amber-dark.webp" alt="amber-dark" />
       <sub><code>amber</code> · <code>amber-dark</code></sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/lapis.png" alt="lapis" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/lapis.webp" alt="lapis" />
       <sub><code>lapis</code> · <code>lapis-dark</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/ripple-dark.png" alt="ripple-dark" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/ripple-dark.webp" alt="ripple-dark" />
       <sub><code>ripple</code> · <code>ripple-dark</code></sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/cinnabar.png" alt="cinnabar" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/cinnabar.webp" alt="cinnabar" />
       <sub><code>cinnabar</code> · <code>cinnabar-dark</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/sage-dark.png" alt="sage-dark" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/sage-dark.webp" alt="sage-dark" />
       <sub><code>sage</code> · <code>sage-dark</code></sub>
     </td>
     <td align="center" width="50%">
-      <img src="website/assets/screenshots/spring.png" alt="spring" />
+      <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/typora-Bloom-theme/spring.webp" alt="spring" />
       <sub><code>spring</code> · <code>spring-dark</code></sub>
     </td>
   </tr>
